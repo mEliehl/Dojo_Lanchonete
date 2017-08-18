@@ -1,8 +1,0 @@
-C:\Projects\Dojo_Lanchonete\Lanchonete\obj\Debug\netstandard2.0\Lanchonete.csproj.CoreCompileInputs.cache
-C:\Projects\Dojo_Lanchonete\Lanchonete\obj\Debug\netstandard2.0\Lanchonete.AssemblyInfoInputs.cache
-C:\Projects\Dojo_Lanchonete\Lanchonete\obj\Debug\netstandard2.0\Lanchonete.AssemblyInfo.cs
-C:\Projects\Dojo_Lanchonete\Lanchonete\bin\Debug\netstandard2.0\Lanchonete.deps.json
-C:\Projects\Dojo_Lanchonete\Lanchonete\bin\Debug\netstandard2.0\Lanchonete.dll
-C:\Projects\Dojo_Lanchonete\Lanchonete\bin\Debug\netstandard2.0\Lanchonete.pdb
-C:\Projects\Dojo_Lanchonete\Lanchonete\obj\Debug\netstandard2.0\Lanchonete.dll
-C:\Projects\Dojo_Lanchonete\Lanchonete\obj\Debug\netstandard2.0\Lanchonete.pdb
