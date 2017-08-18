@@ -1,0 +1,15 @@
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\obj\Debug\netcoreapp2.0\Lanchonete.Test.csproj.CoreCompileInputs.cache
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\obj\Debug\netcoreapp2.0\Lanchonete.Test.AssemblyInfoInputs.cache
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\obj\Debug\netcoreapp2.0\Lanchonete.Test.AssemblyInfo.cs
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.Test.deps.json
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.Test.runtimeconfig.json
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.Test.runtimeconfig.dev.json
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.Test.dll
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.Test.pdb
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.dll
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\bin\Debug\netcoreapp2.0\Lanchonete.pdb
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\obj\Debug\netcoreapp2.0\Lanchonete.Test.dll
+C:\Projects\Dojo_Lanchonete\Lanchonete.Test\obj\Debug\netcoreapp2.0\Lanchonete.Test.pdb
